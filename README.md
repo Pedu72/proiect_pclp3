@@ -1,4 +1,4 @@
-# proiect_pclp3
+# proiect_pclp3 - Paduraru Gabriel-Alexandru - 312CD
 
 ## Task 1
 Am citit in variabila data csv-ul train.csv.  
