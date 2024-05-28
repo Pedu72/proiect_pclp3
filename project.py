@@ -314,4 +314,6 @@ plt.savefig('out/10_2 - Relatia dintre Tarif, Clasa si Supravietuire')
 
 
 
+data = data.drop(columns = ['Children', 'IsAlone', 'Title'])
+
 data.to_csv('out/test_out.csv')
